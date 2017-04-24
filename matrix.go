@@ -1,7 +1,7 @@
-package NeuralNetwork
+package main
 
-import "fmt"
 
-func main() {
-	fmt.Printf("\nLearning Neural Network!")
+func MatrixDescription() string {
+	return("\nCreate the matrix!")
 }
+
